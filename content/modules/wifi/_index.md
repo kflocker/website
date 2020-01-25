@@ -1,5 +1,5 @@
 ---
-title: "WiFi"
+title: "WiFi Recovery"
 date: 2019-02-25T11:10:00+01:00
 draft: false
 weight: 3
